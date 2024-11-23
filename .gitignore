@@ -1,0 +1,7 @@
+# Mengabaikan folder node_modules
+node_modules/
+
+# Mengabaikan file .DS_Store (file yang dibuat oleh macOS)
+.DS_Store
+.env
+package-lock.json
